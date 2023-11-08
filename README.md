@@ -1,7 +1,7 @@
 
 ---
 
-# Manual de Instalação dos Serviços - Sequência SYSTEMHELP
+# Manual de Instalação dos Serviços - Sequência ESOCLICAR
 
 ## Requisitos do Sistema
 
@@ -33,7 +33,7 @@ sudo apt install git -y
 Clone os repositórios do Typeboot Evolution e Chatwoot.
 
 ```bash
-git clone https://github.com/system-help-solution/....git
+git clone https://github.com/jajacaraujo/typebot-atualizado.git
 cd ...
 chmod +x instalador.sh
 ./instalador.sh
